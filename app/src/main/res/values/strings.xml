@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+    <string name="generation_label">Generation: </string>
+</resources>
